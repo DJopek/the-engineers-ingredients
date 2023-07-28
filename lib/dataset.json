@@ -18,14 +18,14 @@
     "title": "Quantum Computing Textbook",
     "authors": ["Qiskit"],
     "description": "Textbook with courses by Qiskit",
-    "link": "https://qiskit.org/learn",
+    "link": "https://qiskit.org/learn"
   },
   {
     "categories": ["Quantum Computing"],
     "title": "Learn quantum computing: a field guide",
     "authors": ["Charlie Bennett", "Lev Bishop", "Sergey Bravyi", "Andrew Cross", "Jay Gambetta", "Paul Nation", "John Smolin", "Kristan Temme", "Abby Cross (editor)"],
     "description": "Explore topics on concepts and important circuits that make up the foundation of quantum computing, and try them out on IBM Quantum Composer.",
-    "link": "https://quantum-computing.ibm.com/composer/docs/iqx/guide#learn-quantum-computing-a-field-guide",
+    "link": "https://quantum-computing.ibm.com/composer/docs/iqx/guide#learn-quantum-computing-a-field-guide"
   },
   {
     "categories": ["Computer Science", "Mathematics", "Information Theory"],
