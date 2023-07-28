@@ -14,6 +14,13 @@
     "link": "https://setosa.io/ev/ordinary-least-squares-regression/"
   },
   {
+    "categories": ["Quantum Computing"],
+    "title": "Quantum Computing Textbook",
+    "authors": ["Qiskit"],
+    "description": "Textbook with courses by Qiskit",
+    "link": "https://qiskit.org/learn",
+  },
+  {
     "categories": ["Computer Science", "Mathematics", "Information Theory"],
     "title": "Seeing Circles, Sines and Signals",
     "authors": ["Jack Schaedler"],
