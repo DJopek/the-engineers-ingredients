@@ -15,6 +15,7 @@ This project gathers specifically crafted digital content focused on engineering
 * Civil engineering (no entries yet)
 * Computer engineering
 * Computer science
+* Quantum computing
 * Electrical engineering (no entries yet)
 * Environmental engineering (no entries yet)
 * Materials science (no entries yet)
